@@ -1,0 +1,9 @@
+users
+userid username password profilepictureid creationdate algo permissions isblocked
+
+posts
+postid fileid filesize imagesize tags uploaderuserid postdate postsource postselfrating
+
+tag_alias
+tagfrom tag to
+;example: male to female -> gynomorph
